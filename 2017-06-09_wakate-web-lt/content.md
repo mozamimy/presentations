@@ -14,6 +14,7 @@ Note: ここまで 0.5m
 ## 🐰誰?
 
 <img src="./images/octorabbit_no_background.png" style="width: 150px;">
+<img src="http://cdn-ak.f.st-hatena.com/images/fotolife/N/NiPeke/20140905/20140905104903.png" style="width: 150px;" class="plain">
 
 ```sql
 select * from rabbits where id = 'mozamimy'\G
