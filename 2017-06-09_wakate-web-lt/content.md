@@ -1,6 +1,6 @@
 ## confd を使った節約内製
 
-## アプリデプロイシステム (仮)
+## アプリデプロイシステム
 
 <p style="text-align: right;">
 SRE Group / Cookpad Inc. <br>
@@ -29,7 +29,7 @@ select * from rabbits where id = 'mozamimy'\G
        working_on: Cookpad Inc.
         job_title: Site Reliability Engineer
    responsibility: エンジニアリングでインフラの運用をいい感じにする
-           ᕱ⑅ᕱ ♡: Ruby / Rust / Node.js / Linux / AWS / Vim
+           ᕱ⑅ᕱ ♡: AWS / Linux / Ruby / Rust / Vim
 1 row in set (0.00 sec)
 ```
 
@@ -51,7 +51,7 @@ Note:
 
 ---
 
-## 昨年: トクバイチームごと会社分割
+## 昨年: トクバイチームごと分社化
 
 ---
 
