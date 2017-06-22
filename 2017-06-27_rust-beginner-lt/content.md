@@ -22,7 +22,6 @@ select * from rabbits where id = 'mozamimy'\G
           twitter: @mozamimy
      mail_address: alice@mozami.me
          web_site: https://mozami.me/
-       working_on: Cookpad Inc.
         job_title: Site Reliability Engineer
    responsibility: エンジニアリングでインフラの運用をいい感じにする
            ᕱ⑅ᕱ ♡: AWS / Linux / Ruby / Rust / Vim
@@ -42,7 +41,7 @@ select * from rabbits where id = 'mozamimy'\G
 ## 💪 モチベーション
 
 - 言語処理系に興味
-  - うさぎ言語作りたい..
+  - プログラミング言語作りたい..
 - まずは素振りをする
   - {字句,構文}解析・コンパイラ・VM(スタックマシン)
   - 一通り実装したい
@@ -592,7 +591,7 @@ impl VirtualMachine {
 - 勘所はつかめた.. と思う
 - 活用して仲良くしていきたい
   - ミドルウェアを作る?
-  - うさぎ言語を作る?
+  - プログラミング言語を作る?
 
 ---
 
